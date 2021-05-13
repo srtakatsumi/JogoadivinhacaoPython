@@ -43,3 +43,6 @@ Estou apredendo a programar, então se o código abaixo estiver com alguma infor
 	Você digitou 45
 
 	Tentativa 3 de 10
+	
+Referência:    
+- https://docs.python.org/pt-br/ 
